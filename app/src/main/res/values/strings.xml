@@ -1,0 +1,309 @@
+<resources>
+    <string name="app_name">Poly12</string>
+
+    <string-array name="Languages">
+        <item>Choose Language</item>
+        <item>中文 (Chinese)</item>
+        <item>हिंदी (Hindi)</item>
+        <item>Español (Spanish)</item>
+        <item> عربى (Arabic)</item>
+        <item>Português (Portuguese)</item>
+    </string-array>
+    <string name="title_activity_language_intro">LanguageIntroActivity</string>
+    <string name="title_activity_spacnish_dashboard">Spacnish_dashboardActivity</string>
+    <string name="Grammar">La manzana es roja </string>
+    <string name="Gramma2">The apple is red </string>
+    <string name="Tittle">Word Definition </string>
+    <string name="grammar3"> The </string>
+    <string name="grammar4"> La </string>
+    <string name="grammar5"> Manzana </string>
+    <string name="grammar6"> Apple </string>
+    <string name="grammar7"> es </string>
+    <string name="grammar8"> is </string>
+    <string name="grammar9"> Roja </string>
+    <string name="grammar10"> Red </string>
+    <string name="title_activity_introduction_comprehension">Introduction_comprehension</string>
+    <string name="comprehensionquestion"> Do you understand " La manzana es roja"?</string>
+    <string name="dyk0">Spanish (Español) is the second most spoken language in the world with over 400 million speakers</string>
+    <string name="dyk1">Spanish is the official language of 20 countries</string>
+    <string name="dyk2">Although Spanish uses the Latin alphabet like English, words are pronounced differently in Spanish than in English</string>
+    <string name="DykT">Did You Know?</string>
+    <string name="Dykp">Pronunciation:</string>
+    <string name="pronouncetitle">Let’s look at some pronunciation tips to help you get the perfect Spanish accent</string>
+    <string name="lls">Let’s look at ‘Español’</string>
+    <string name="lls1">The letter ‘a’ is pronounced as ‘aa’ as in ‘father’</string>
+    <string name="llls2">Did you notice the letter ‘ñ’ in Español? This letter is peculiar to Spanish
+It is pronounced as ‘ny’ like in ‘canyon’</string>
+    <string name="part3">Country</string>
+    <string name="part3_1">Nationality</string>
+    <string name="part3_2">Spain/España</string>
+    <string name="part3_3">Español, Española</string>
+    <string name="part3_4">México</string>
+    <string name="part3_5">Mexicano, Mexicana</string>
+    <string name="part3_6">Guatemala</string>
+    <string name="part3_7">Guatemalteco, Guatemalteca</string>
+    <string name="part3_8">Cuba</string>
+    <string name="part3_9">Cubano, Cubana</string>
+    <string name="part3_10">Nicaragua</string>
+    <string name="part3_11">Nicaragüense</string>
+    <string name="part3_12">Costa Rica</string>
+    <string name="part3_13">Costarricense</string>
+
+    <string name="part4">Did you notice that the ‘x’ in ‘mexicano’ is pronounced as ‘h’</string>
+    <string name="part4_1">While ‘x’ is usually pronounced as ‘x’ in ‘flexible’; it is pronounced as a throaty ‘h’ in the words México, Mexicano and Oaxaca (a state in Mexico)</string>
+    <string name="part4_2">Did you notice the symbol on ‘u’ in nicaragüense?</string>
+    <string name="part4_3">Did you notice the symbol on ‘u’ in nicaragüense?</string>
+    <string name="part4_4">‘gü’ when followed by another vowel like in ‘güe’, is pronounced like ‘Gw’ in Gwen (eg; nicaragüense -> nicaragwense)</string>
+    <string name="part5t">Grammar Tips</string>
+    <string name="part5"> Have you noticed that some nationalities have two different endings? </string>
+    <string name="part5_1">We use different endings for masculine (usually end with -o) and feminine objects (usually ends with -a)</string>
+    <string name="part5_2">Argentine = masculine | Argentina = feminine
+Argentinos = masculine, pl. | argentinas = feminine, pl.
+For plural form, we just add an ‘s’</string>
+    <string name="part5_t1">Grammar Examples</string>
+    <string name="part5_3">Did you notice that ‘argentino’ is pronounced as ‘arhentino’?
+In Spanish, ‘g’ when followed by ‘e’ or ‘i’, is pronounced like a throaty ‘h’</string>
+    <string name="Lesson1p1t">Grammar tip:</string>
+    <string name="Lesson1p1_1">You may have noticed that nationalities are not capitalized in Spanish (eg: argentino)?</string>
+    <string name="Lesson1p1_2">That’s because in Spanish, although names of countries and cities are capitalized words derived from them (languages, nationalities) are not.</string>
+    <string name="Lesson1p1_3">So while the ‘e’ in España will be capatilized, the ‘e’ in Español will not be</string>
+    <string name="introEnding"> This marks the End of The Introduction Module, Are you ready for a Quiz ?</string>
+    <string name="Lesson1p2t">Moving on …</string>
+    <string name="Lesson1p2">Great! So now you know some key pronunciation and grammar peculiarities!
+        Remember these as they will help you understand the Spanish accent and the language
+        Let’s now move on to some greetings in Spanish
+</string>
+    <string name="Lesson1p2_1">Hi! -> ¡Hola!</string>
+    <string name="Lesson1p2_2">Grammar tip: ¡Double exclamations!</string>
+    <string name="Lesson1p2_3">Did you notice the inverted exclamation points with ¡Hola!?</string>
+    <string name="Lesson1p2_4">Grammar tip: ¡Double exclamations!
+The upside-down or inverted exclamation ¡! points are unique to Spanish
+</string>
+    <string name="Lesson1p2_5">Grammar tip: ¡Double exclamations!
+This is to ensure that when you’re reading, you can tell long before the end of a sentence whether you’re dealing with an exclamation!
+</string>
+
+    <string name="Lesson1p3t">Now, let’s look at Good morning!</string>
+    <string name="Lesson1p3">Good = Buen day = día</string>
+    <string name="Lesson1p3_1">Although ‘día’ literally translated to ‘day’, it is used as ‘morning’ in the greeting ‘good morning’
+</string>
+    <string name="Lesson1p3_2">In Spanish, nouns take up either masculine or feminine gender, for example ‘Dia’ is masculine</string>
+    <string name="Lesson1p3_3">The adjectives describing these nouns therefore also need to reflect the same gender</string>
+    <string name="Lesson1p3_4">Since ‘Dia’ is masculine we will use the masculine for of ‘good’
+Hence we will add an ‘-o’ at the end and make it ‘Bueno’
+</string>
+
+    <string name="Lesson1p4t">Did you notice?</string>
+    <string name="Lesson1p4">Good = Bueno
+(singular, masculine form)</string>
+    <string name="Lesson1p4_1">Grammar tip:
+Greeting such as ‘Good morning’ and ‘Good afternoon’ etc. always take up plural forms in Spanish. Hence, we add an ‘s’ after both ‘Bueno’ and ‘Día’:
+Good morning! = ¡Buenos días!
+</string>
+    <string name="Lesson1p4_2">Good afternoon!/Good evening! -> ¡Buenas tardes!
+Good = Buena (singular, feminine)
+Afternoon = Tarde (singular form)
+</string>
+    <string name="Lesson1p4_3">Good morning! = ¡Buenos días! (masculine) but
+Good afternoon! = ¡Buenas tardes! (feminine)
+</string>
+    <string name="Lesson1p4_4">
+We learnt that adjectives take male and female forms depending on the gender of the subject
+Since días is masculine we used Buenos and tardes is feminine. Hence, we us Buenas.
+</string>
+
+    <string name="Lesson1p5t">So remember!</string>
+    <string name="Lesson1p5">Good morning! = ¡Buenos días!
+Good afternoon! = ¡Buenas tardes!
+</string>
+    <string name="Lesson1p5_1">Both días and tardes are plural, hence, an ‘s’ is added</string>
+    <string name="Lesson1pt5_2">Warning !! Exam Ahead !!</string>
+
+    <string name="Lesson2">Throughout your lessons, you will be given cultural tips on the vocabulary and grammar you learn along the way to ensure that you can use what you learn in the real world.</string>
+    <string name="Lesson2_1">Good afternoon! = ¡Buenas tardes!
+Is usually used from 3pm-7pm
+However, it is not really time bound, good afternoon is usually used from lunch time until it gets dark.
+Expect lunch hour to be around 2pm or 3pm!
+</string>
+    <string name="Lesson2_2">Good night! -> ¡Buenas noches!
+Good = Buena
+(with singular, femine subjects)
+Noches is feminine and plural, hence, we use Buenas
+
+Good night! = ¡Buenas noches!
+Just like in English where we often use ‘good night’ to bid farewell, ‘Buenas noches’ can also be used to bid farewell
+Remember! Noches is feminine and plural
+</string>
+
+    <string name="Lesson2p1t">Informally: just a smile and ¡Hola!, sometimes a handshake if it’s a bit more formal
+A light hug and a kiss or two are common for friends and family, especially among women
+</string>
+    <string name="Lesson2p1">Informally: just a smile and ¡Hola!, sometimes a handshake if it’s a bit more formal
+A light hug and a kiss or two are common for friends and family, especially among women
+</string>
+    <string name="Lesson2p1_1">Greeting norms:
+Generally, shaking hands is considered formal and is better suited for business meetings
+</string>
+
+
+    <string name="Lesson3Part1">Good morning = ¡Buenos días! (masculine) but</string>
+    <string name="Lesson3Part1_2">Good afternoon = ¡Buenas tardes! (feminine)</string>
+    <string name="Lesson3Part1_3">Adjectives take male and female forms depending on the gender of the subject</string>
+    <string name="Lesson3Part1_4">Since días is masculine we used Buenos and tardes is feminine, hence, we use Buenas</string>
+
+    <string name="Lesson3Part2">Do you remember?</string>
+    <string name="Lesson3Part2_1">We always use plural forms for greetings like</string>
+    <string name="Lesson3Part2_2">Good afternoon = ¡Buenas tardes!</string>
+    <string name="Lesson3Part2_3">Both días and tardes are plural hence an ‘s’ is added</string>
+
+    <string name="Lesson3Part3">The first greeting we will look at is ‘Welcome’ – used when welcoming someone to your house</string>
+    <string name="Lesson3Part3_1">The Spanish word for ‘welcome’ is a combination of two words</string>
+    <string name="Lesson3Part3_2">Welcome = Well+Coming / Arrival</string>
+    <string name="Lesson3Part3_3">Well = Bien</string>
+    <string name="Lesson3Part3_4">Coming / Arrival = Venido (for males)/ Venida (for females)</string>
+
+    <string name="Lesson3Part4">Welcome (welcoming someone to your house) -> Bienvenido (welcoming a male), Bienvenida (welcoming a female)</string>
+    <string name="Lesson3Part4_1">When welcoming a female, use Bienvenida</string>
+    <string name="Lesson3Part4_2">When welcoming a male, use Bienvenido</string>
+    <string name="Lesson3Part4_3">Remember, we end with ‘a’ for feminine forms and ‘o’ for masculine!</string>
+    <string name="Lesson3Part4_4">Welcome (welcoming someone to your house) -> Bienvenidos (group of males/mixed group), Bienvenidas (group of females)</string>
+
+    <string name="Lesson3Part5">Remember, we add an ‘s’ at the end for plural forms!</string>
+    <string name="Lesson3Part5_1">When welcoming a group of men/mixed group use Bienvenidos, When welcoming a group of women use Bienvenidas</string>
+    <string name="Lesson3Part5_2">Let’s not look at: Nice to meet you</string>
+    <string name="Lesson3Part5_3">Greetings: The common phrase for ‘Nice to meet you’ literally translate to ‘Much pleasure’ in Spanish</string>
+    <string name="Lesson3Part5_4">Much = Mucho | Pleasure = Gusto</string>
+
+    <string name="Lesson3Part6">Pronunciation tip:</string>
+    <string name="Lesson3Part6_1">Did you notice the pronunciation of ‘mucho’? We earlier learnt that ‘h’ is always silent in Spanish…</string>
+    <string name="Lesson3Part6_2">However, when combined with c it is pronounced as ‘ch’ as in ‘church’</string>
+    <string name="Lesson3Part6_3">Nice to meet you -> Mucho gusto (Literally: Much pleasure)</string>
+    <string name="Lesson3Part6_4">Mucho = Much | Gusto = Pleasure</string>
+
+    <string name="Lesson3Part7">Let’s now look at how we will say ‘sorry’ in Spanish…</string>
+    <string name="Lesson3Part7_1">Greetings:</string>
+    <string name="Lesson3Part7_2">Sorry -> Lo siento</string>
+
+    <string name="Lesson3Part9">Let’s move forward and look at how we say ‘excuse me’ in Spanish…</string>
+    <string name="Lesson3Part9_1">Just like in English, excuse me may be used for two purposes – either to beg pardon or to seek someone’s attention…</string>
+    <string name="Lesson3Part9_2">Excuse me (begging pardon) -> Perdón</string>
+    <string name="Lesson3Part9_3">Excuse me! (seeking attention) -> ¡Discúlpeme!</string>
+    <string name="Lesson3Part9_4">¡Discúlpeme! Is pronounced as Dee-skool-pe-me. With the sound of ‘pe’ like in ‘pet’ and ‘me’ like in ‘met’</string>
+
+    <string name="Lesson3Part10">Let’s now look at ‘please’</string>
+    <string name="Lesson3Part10_1">Please -> Por favor</string>
+    <string name="Lesson3Part10_2">Por = For</string>
+    <string name="Lesson3Part10_3">Favor = Favour</string>
+    <string name="Lesson3Part10_4">Literally: Asking for a favor</string>
+
+    <string name="Lesson3Part12">Greetings: Thank you -> Gracias</string>
+    <string name="Lesson3Part12_1">Pronunciation tip: There’s a key difference in how ‘Gracias’ is pronounced in European Spanish vs. Latin American Spanish</string>
+    <string name="Lesson3Part12_2">‘C’ when followed by e/i is pronounced as ‘the/thi’ in European Spanish and ‘se/si’ in Latin American Spanish</string>
+    <string name="Lesson3Part12_3">Pronunciation tip: Hence we will say ‘Gra-thee-as’ in European Spanish and ‘Gra-see-as’ in Latin American Spanish</string>
+
+    <string name="Lesson3Part13">Let’s now look at ‘Fine, Thank you’. ‘Fine’ translates to ‘Bien’ in Spanish</string>
+    <string name="Lesson3Part13_1">Fine, Thank you -> Bien, Gracias</string>
+    <string name="Lesson3Part13_2">Bien = Fine/Well</string>
+    <string name="Lesson3Part13_3">Pronunciation tip:</string>
+    <string name="Lesson3Part13_4">Again, we say ‘Bien, Gra-thee-as’ in Europe and ‘Bien, Gra-see-as’ in Latin America</string>
+
+    <string name="Lesson3Part14">Now that you know how to say ‘thank you’ let’s also look at how we reply to ‘thank you’</string>
+    <string name="Lesson3Part14_1">In Spanish, ‘You’re welcome’ literally translates to ‘It’s nothing’ or</string>
+    <string name="Lesson3Part14_2">‘Of nothing’ loosely meaning ‘Don’t thank me for anything’: Of = De, Nothing = Nada</string>
+    <string name="Lesson3Part14_3">You’re welcome (reply to thank you) -> De nada: De = Of, Nada = Nothing</string>
+    <string name="Lesson3Part14_4">Literally: ‘it’s nothing’ / ‘of nothing’ | Meaning ‘don’t thank me for anything’</string>
+
+    <string name="Lesson3Part15">Let’s now look at the final greeting: Bye!</string>
+    <string name="Lesson3Part15_1">Bye! -> ¡Adiós! Also translated as ‘¡Hasta luego!’ which means ‘Until then!’</string>
+    <string name="Lesson3Part15_2">Pronunciation tip:</string>
+    <string name="Lesson3Part15_3">Did you notice the accent on the ‘ó’ in ¡Adiós!</string>
+    <string name="Lesson3Part15_4">If a word is marked with an accent, then that syllable receives the stress</string>
+
+    <string name="Lesson4">An informal alternative to ¡Adiós! In many areas is ¡Chau!</string>
+    <string name="Lesson4_1">Some English subtleties/polite words are not as widely used in Spanish</string>
+    <string name="Lesson4_2">This may make the language sound brash at fist – but that’s not really true</string>
+    <string name="Lesson4_3">Eg: You may notice that ‘por favor’ isn’t as widely used as ‘please’ in English</string>
+    <string name="Lesson4_4">Instead of adding extra words (like por favor), we just turn a request into a question and it’’s considered just as polite</string>
+
+    <string name="Lesson4Part1">Eg: ¿Abres la ventana? : (Can) you (please) open the window?</string>
+    <string name="Lesson4Part1_1">Although we don’t really translate the ‘please’</string>
+    <string name="Lesson4Part1_2">Did you notice?</string>
+    <string name="Lesson4Part1_3">As we saw with ¡!, did you notice the ¿? In ¿Abres la ventana? In Spanish all questions start with a ‘¿’ and end with a ‘?’</string>
+    <string name="Lesson4Part1_4">The ‘¿’ is used to communicate the tone of the statement (question tone) in the beginning itself</string>
+
+    <string name="Lesson5">For learning useful and interesting conversations in Spanish:</string>
+    <string name="Lesson5_1">it is essential that we learn some basics which will help us with conversations in the future</string>
+    <string name="Lesson5_2">In this lesson we will look at personal pronouns (like I, she, he, you etc.) and their forms in Spanish –</string>
+    <string name="Lesson5_3">these would act as a foundation for us to move on to conversational lessons</string>
+    <string name="Lesson5_4">Let’s start with ‘I’ and its plural form ‘we’</string>
+
+    <string name="Lesson5Part1">Pronunciation tip:</string>
+    <string name="Lesson5Part1_1">The ‘y’ in ‘Yo’ is pronounced like the English ‘y’ in some areas, sounding just as it would in English</string>
+    <string name="Lesson5Part1_2">While in others, it takes up the sound of the English letter ‘j’</string>
+
+    <string name="Lesson5Part3">Pronunciation tip:</string>
+    <string name="Lesson5Part3_1">Did you notice the pronunciation of ‘Ella’?</string>
+    <string name="Lesson5Part3_2">In Spanish ‘ll’ takes up the sound of ‘y’ in some areas and a soft ‘j’ in others</string>
+    <string name="Lesson5Part3_3">So you’ll hear both ‘e-yah’ and ‘e-jah’</string>
+
+    <string name="Lesson5Part4">Which pronoun would you use?</string>
+    <string name="Lesson5Part4_1">Ana (Noun) -> Ella (She) (Correct pronoun)</string>
+    <string name="Lesson5Part4_2">Which pronoun would you use?</string>
+    <string name="Lesson5Part4_3">Ana y Luis (Ana and Luis) (Noun) -> Ellos (Them, mixed group) (Correct Pronoun)</string>
+
+    <string name="Lesson5Part5">Grammar tip:</string>
+    <string name="Lesson5Part5_1">Did you notice the letter ‘y’ in Ana y Luis?</string>
+    <string name="Lesson5Part5_2">‘y’ = and</string>
+    <string name="Lesson5Part5_3">‘y’ is pronounced same as the sound of the letter ‘e’ in English</string>
+
+    <string name="Lesson5Part6">Which pronoun would you use?</string>
+    <string name="Lesson5Part6_1">José, Luis y Mark (José, Luis and Mark) (Noun) -> Ellos (Them, male group) (Correct pronoun)</string>
+    <string name="Lesson5Part6_2">Pronunciation tip:</string>
+    <string name="Lesson5Part6_3">José is pronounced ‘H-osay’ with a stress on ‘e’ (as it is accented) almost sounding like the ‘ei’ in eight</string>
+    <string name="Lesson5Part6_4">The letter ‘J’ sounds like ‘H’ in Spanish</string>
+
+    <string name="Lesson5Part7">Which pronoun would you use?</string>
+    <string name="Lesson5Part7_1">Ana y María (Ana and María) (Noun) -> Ellas (Them, girls group) (Correct Pronoun)</string>
+    <string name="Lesson5Part7_2">Which pronoun would you use?</string>
+    <string name="Lesson5Part7_3">María y tú (María and You (inf.)) (Noun) -> Vosotras/os (You, pl., informal) (Correct Pronoun)</string>
+
+    <string name="Lesson5Part8">Did you notice?</string>
+    <string name="Lesson5Part8_1">María y tú -> Vosotras/os</string>
+    <string name="Lesson5Part8_2">We put the right option as ‘vosotras’ or ‘vosotros’ because ‘tú’ is informal</string>
+    <string name="Lesson5Part8_3">Use of ‘vosotros’ or ‘vosotras’ will depend on the gender of the group</string>
+    <string name="Lesson5Part8_4">If it is all females we will use ‘vosotras’, otherwise we will use ‘vosotros’</string>
+
+    <string name="Lesson5Part9">Which pronoun would you use?</string>
+    <string name="Lesson5Part9_1">María y usted (María and You(for.)) (Noun) -> Usteded (You, formal) (Correct pronoun)</string>
+    <string name="Lesson5Part9_2">So remember!</string>
+    <string name="Lesson5Part9_3">María y usted as a group would be treated formally because ‘usted’ is formal</string>
+    <string name="Lesson5Part9_4">Hence they are together referred to as ‘Ustedes’</string>
+
+    <string name="Lesson6">In Spain and Argentina, the informal forms tú or vosotros/as are used more often instead of the formal forms like usted</string>
+    <string name="Lesson6_1">Although the formal forms are commonly used in Latin America</string>
+    <string name="Lesson6_2">Usually, the singular informal tú is used when speaking with family members, children, friends or close acquaintances</string>
+    <string name="Lesson6_3">While usted is used otherwise</string>
+
+    <string name="Lesson6Part1">If you’re uncertain which one to use, it is usually better to use usted</string>
+    <string name="Lesson6Part1_1">Unless the other person starts speaking to you using tú</string>
+    <string name="Lesson6Part1_2">In which case it is usually OK to reciprocate</string>
+    <string name="Lesson6Part1_3">¿Le puedo tutear? (Can I address informally with tú?) is often used to seek permission to start using tú</string>
+    <string name="Lesson6Part1_4">False friends, falsos amigos, are words which look or sound similar in two different languages but actually mean something else</string>
+
+    <string name="Lesson6Part2">For example, if you’re embarrassed, you may feel tempted to say embarazado (man)</string>
+    <string name="Lesson6Part2_1">Or embarazada (woman) because they sound so similar to the word</string>
+    <string name="Lesson6Part2_2">‘embarrassed’ …</string>
+    <string name="Lesson6Part2_3">However, that actually means I’m pregnant.</string>
+    <string name="Lesson6Part2_4">The right phrase to say is me da vergüenza</string>
+    <string name="next">Next</string>
+    <string name="linktosite1"><a href="https://www.meetup.com/topics/spanish/us/ny/new_york/">
+        Find Native Spanish Speakers to Meet with</a></string>
+    <string name="linktosite2"><a href="https://www.secondhalftravels.com/spanish-youtube-channels/">
+        "Top Spanish YouTube Channels</a></string>
+    <string name="linktosite3"><a href="https://www.secondhalftravels.com/spanish-movies-netflix/">
+        Top Spanish Movies</a></string>
+    <string name="linktosite4"><a href="https://www.youtube.com/playlist?list=PLw-VjHDlEOgvT-sOErqlUvlTVldqB1jpF">
+        Top Spanish Songs</a></string>
+
+
+</resources>
